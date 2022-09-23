@@ -76,13 +76,13 @@ void loop() {
         printNormalModeMessage();      
     }
 
-    if (Pos == "ON"){
+    if (Pos == "ON") {
         Serial.print("\n");
         Serial.println("This tag is not allowed to be removed.");
         lcd.clear();
         lcd.print("This tag ISN'T");
         lcd.setCursor(0, 1);
-        lcd.print("ALLOW to REMOVE!");
+        lcd.print("ALLOWED to REMOVE!");
         digitalWrite(3, HIGH);
         delay(200);
         digitalWrite(3,LOW);
