@@ -1,10 +1,4 @@
-# rfid-plain
-
-I made this program because of my curiosity, even my course material has not reached here very far.
-
-## Program logic (also available in logic.txt):
-
-    If master tag is detected, enter program mode and wait for another tag,
+If master tag is detected, enter program mode and wait for another tag,
 
 	a. if another tag is detected, read it and determine is it "ON" or "OFF"
 
