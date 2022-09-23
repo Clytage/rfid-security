@@ -1,7 +1,7 @@
 # Arduino RFID security system
 ![GitHub](https://img.shields.io/github/license/Clytage/rfid-security)
 
-Welcome to the Github page of my Arduino RFID security system project. Here you will find the [logic of the system](https://github.com/Clytage/rfid-security/blob/main/logic.txt), and [Arduino sketches](https://github.com/Clytage/rfid-security/tree/main/Arduino%20sketches) for this project.
+Welcome to the GitHub page of my Arduino RFID security system project. Here you will find the [logic of the system](https://github.com/Clytage/rfid-security/blob/main/logic.txt), and [Arduino sketches](https://github.com/Clytage/rfid-security/tree/main/Arduino%20sketches) for this project.
 
 ### Things I used:
 
