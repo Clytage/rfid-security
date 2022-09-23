@@ -2,13 +2,13 @@
 #include <MFRC522.h>
 #include <LiquidCrystal.h>
 
-#define SS_PIN 10  
-#define RST_PIN 7  
+#define SS_PIN 10
+#define RST_PIN 7
 
 LiquidCrystal lcd(2, 8, 4, 5, 6, 7);
 MFRC522 mfrc522(SS_PIN, RST_PIN);
-MFRC522::MIFARE_Key key;  
-MFRC522::StatusCode status;        
+MFRC522::MIFARE_Key key;
+MFRC522::StatusCode status;
 byte bufferLen = 18;
 byte readBlockData[18];
 String Pos = "";
