@@ -12,4 +12,4 @@ Welcome to the GitHub page of my Arduino RFID security system project. Here you 
 
 ### License
 
-This project is licensed under The 3-Clause BSD License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under The 3-Clause BSD License - see the [LICENSE](LICENSE) file for more details.
