@@ -3,6 +3,8 @@
 
 Welcome to the GitHub page of my Arduino RFID security system project. Here you will find the [logic of the system](https://github.com/Clytage/rfid-security/blob/main/logic.txt), and [Arduino sketches](https://github.com/Clytage/rfid-security/tree/main/Arduino%20sketches) for this project.
 
+NB: I'm not sure this project is running well on your behavior.
+
 ### Things I used:
 
 * [Arduino IDE](https://www.arduino.cc/en/software#download) for an IDE.
